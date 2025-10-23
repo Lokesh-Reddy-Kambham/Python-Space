@@ -30,8 +30,12 @@ To master **Python problem-solving** through consistent practice — one challen
 ---
 
 ### 💬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham/)  
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-3A3A3A?style=for-the-badge&logo=sololearn)](https://www.sololearn.com/en/profile/30363693)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Lokesh-Reddy-Kambham/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lokesh-reddy-kambham/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=hackerrank)](https://www.hackerrank.com/profile/Lokesh_Reddy_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Lokesh-Reddy-Kambham/)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Profile-Blue?logo=sololearn)](https://www.sololearn.com/en/profile/30363693)
 
 ---
 
